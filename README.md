@@ -1,1 +1,1 @@
-# tv-show-clicker
+# JS TV Show Clicker
